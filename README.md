@@ -1,5 +1,5 @@
-Python whisperer
-================
+Taming Python
+=============
 
 I started learning Python in Oct 2012 at <a href="http://hackbrightacademy.com">Hackbright Academy</a>.
 This is a repo for me to train and record my progress!
